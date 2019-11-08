@@ -1,0 +1,29 @@
+body{
+    font-size: 18px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.fonte{
+    font-family: 'Amatic SC', cursive;
+}
+
+.redes-sociais img{
+    margin-top: 20px;
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.redes-sociais a{
+    text-decoration: none;
+    color: white;
+}
+
+#skills, #about, #projects{
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+}
+
+.carousel img{
+    max-height: 600px ;
+    width: auto;
+}
